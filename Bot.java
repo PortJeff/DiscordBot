@@ -2,7 +2,7 @@ import javax.security.auth.login.LoginException;
 
 import net.dv8tion.jda.core.*;
 
-public class Television {
+public class Bot {
 	public static JDA ourJDA;
 	public static String prefix = "~";
 
